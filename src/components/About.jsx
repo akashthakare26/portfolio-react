@@ -13,7 +13,7 @@ const About = ({ personalInfo }) => {
             </div>
           </div>
           <div className="about-image">
-            <img src="../../public/Pass Photo.jpg" alt="Profile" />
+            <img src="/public/Pass Photo.jpg" alt="Profile" />
           </div>
         </div>
       </div>
